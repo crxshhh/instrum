@@ -1,0 +1,23 @@
+﻿<Window x:Class="pr2sr.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pr2sr"
+        mc:Ignorable="d"
+        Title="InkCanvas" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Margin="3">
+            <TextBlock TextWrapping="Wrap" Text="Mode:" FontWeight="Bold" Margin="5"/>
+            <RadioButton x:Name="Eraseee" Content="Erase" Margin="0, 0, 10, 0" VerticalAlignment="Center" Checked="Eraseee_Checked"/>
+            <RadioButton x:Name="Drawww" Content="Draw" Margin="0, 0, 10, 0" VerticalAlignment="Center" Checked="Drawww_Checked"/>
+        </StackPanel>
+        <InkCanvas x:Name="inkCanvasPanel" Grid.Row="1" >
+            
+        </InkCanvas>
+    </Grid>
+</Window>
