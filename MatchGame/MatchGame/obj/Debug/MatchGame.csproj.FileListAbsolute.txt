@@ -1,0 +1,16 @@
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\bin\Debug\MatchGame.exe.config
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\bin\Debug\MatchGame.exe
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\bin\Debug\MatchGame.pdb
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.AssemblyReference.cache
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\obj\Debug\MainWindow.g.cs
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\obj\Debug\App.g.cs
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.cache
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.lref
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\obj\Debug\MainWindow.baml
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\obj\Debug\MatchGame.g.resources
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\obj\Debug\MatchGame.Properties.Resources.resources
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.GenerateResource.cache
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.CoreCompileInputs.cache
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\obj\Debug\MatchGame.exe
+C:\Users\student304.IT\Documents\344\MatchGame\MatchGame\obj\Debug\MatchGame.pdb
