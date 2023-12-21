@@ -1,0 +1,18 @@
+﻿<Window x:Class="SRLessonn1.Dockkk"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SRLessonn1"
+        mc:Ignorable="d"
+        Title="Dockkk" Height="450" Width="800">
+    <DockPanel>
+        <Button DockPanel.Dock="Left" Background="#FF1454B0" Content="Левая кнопка 2"/>
+        <Button DockPanel.Dock="Top" Background="#FF0FD123" Content="Верхняя кнопка 1" />
+        <Button DockPanel.Dock="Left" Background="#FFAE0FD1" Content="Левая кнопка 2"/>
+        <Button DockPanel.Dock="Bottom" Background="#FFD10F56" Content="Верхняя кнопка 1"/>
+        <Button DockPanel.Dock="Right" Background="#FF0FD123" Content="Правая кнопка 1"/>
+        <Button DockPanel.Dock="Top" Background="#FF23AFBD" Content="Верхняя кнопка 2"/>
+        <Button Background="#FFD15E0F" Content="Центральная область, без установки свйойства Dock"/>
+    </DockPanel>
+</Window>
